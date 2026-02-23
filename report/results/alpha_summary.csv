@@ -1,0 +1,4 @@
+model,funds,mean_alpha_annual,median_alpha_annual,pos_alpha_share,sig_pos_alpha_share,sig_neg_alpha_share,fdr_pos_alpha_share
+CAPM,50,0.00700030812093392,0.009580113225754706,0.76,0.14,0.04,0.02
+Carhart4,50,0.007034597769699118,0.00844590743945081,0.68,0.16,0.02,0.04
+FF3,50,0.006669568059645921,0.00825649240174999,0.68,0.16,0.06,0.08

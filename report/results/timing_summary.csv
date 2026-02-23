@@ -1,0 +1,3 @@
+model,funds,mean_gamma,median_gamma,sig_pos_gamma_share,sig_neg_gamma_share,fdr_pos_gamma_share
+HenrikssonMerton,50,-0.014901853935627462,-0.010072932942821737,0.08,0.12,0.06
+TreynorMazuy,50,-0.21068660068420114,-0.16121905989822444,0.04,0.2,0.04
